@@ -1,0 +1,122 @@
+window.CAMINO_LOCATIONS = [
+  {
+    "id": "camino-1",
+    "name": "Saint-Jean-Pied-de-Port",
+    "country": "Франция",
+    "route": "Camino Francés",
+    "lat": 43.163,
+    "lng": -1.237,
+    "source": "https://www.gronze.com/camino-frances",
+    "embed": "",
+    "confirmed": false,
+    "note": "Выберите и проверьте конкретную панораму на маршруте. Исходные координаты — только ориентир населённого пункта."
+  },
+  {
+    "id": "camino-2",
+    "name": "Puente la Reina",
+    "country": "Испания",
+    "route": "Camino Francés",
+    "lat": 42.672,
+    "lng": -1.814,
+    "source": "https://www.gronze.com/camino-frances",
+    "embed": "",
+    "confirmed": false,
+    "note": "Выберите и проверьте конкретную панораму на маршруте. Исходные координаты — только ориентир населённого пункта."
+  },
+  {
+    "id": "camino-3",
+    "name": "Burgos",
+    "country": "Испания",
+    "route": "Camino Francés",
+    "lat": 42.341,
+    "lng": -3.704,
+    "source": "https://www.gronze.com/camino-frances",
+    "embed": "",
+    "confirmed": false,
+    "note": "Выберите и проверьте конкретную панораму на маршруте. Исходные координаты — только ориентир населённого пункта."
+  },
+  {
+    "id": "camino-4",
+    "name": "León",
+    "country": "Испания",
+    "route": "Camino Francés",
+    "lat": 42.599,
+    "lng": -5.567,
+    "source": "https://www.gronze.com/camino-frances",
+    "embed": "",
+    "confirmed": false,
+    "note": "Выберите и проверьте конкретную панораму на маршруте. Исходные координаты — только ориентир населённого пункта."
+  },
+  {
+    "id": "camino-5",
+    "name": "Astorga",
+    "country": "Испания",
+    "route": "Camino Francés",
+    "lat": 42.455,
+    "lng": -6.054,
+    "source": "https://www.gronze.com/camino-frances",
+    "embed": "",
+    "confirmed": false,
+    "note": "Выберите и проверьте конкретную панораму на маршруте. Исходные координаты — только ориентир населённого пункта."
+  },
+  {
+    "id": "camino-6",
+    "name": "Sarria",
+    "country": "Испания",
+    "route": "Camino Francés",
+    "lat": 42.778,
+    "lng": -7.414,
+    "source": "https://www.gronze.com/camino-frances",
+    "embed": "",
+    "confirmed": false,
+    "note": "Выберите и проверьте конкретную панораму на маршруте. Исходные координаты — только ориентир населённого пункта."
+  },
+  {
+    "id": "camino-7",
+    "name": "Porto",
+    "country": "Португалия",
+    "route": "Camino Portugués Central",
+    "lat": 41.143,
+    "lng": -8.612,
+    "source": "https://www.gronze.com/camino-portugues",
+    "embed": "",
+    "confirmed": false,
+    "note": "Выберите и проверьте конкретную панораму на маршруте. Исходные координаты — только ориентир населённого пункта."
+  },
+  {
+    "id": "camino-8",
+    "name": "Barcelos",
+    "country": "Португалия",
+    "route": "Camino Portugués Central",
+    "lat": 41.53,
+    "lng": -8.62,
+    "source": "https://www.gronze.com/camino-portugues",
+    "embed": "",
+    "confirmed": false,
+    "note": "Выберите и проверьте конкретную панораму на маршруте. Исходные координаты — только ориентир населённого пункта."
+  },
+  {
+    "id": "camino-9",
+    "name": "Ponte de Lima",
+    "country": "Португалия",
+    "route": "Camino Portugués Central",
+    "lat": 41.768,
+    "lng": -8.584,
+    "source": "https://www.gronze.com/camino-portugues",
+    "embed": "",
+    "confirmed": false,
+    "note": "Выберите и проверьте конкретную панораму на маршруте. Исходные координаты — только ориентир населённого пункта."
+  },
+  {
+    "id": "camino-10",
+    "name": "Tui",
+    "country": "Испания",
+    "route": "Camino Portugués Central",
+    "lat": 42.047,
+    "lng": -8.644,
+    "source": "https://www.gronze.com/camino-portugues",
+    "embed": "",
+    "confirmed": false,
+    "note": "Выберите и проверьте конкретную панораму на маршруте. Исходные координаты — только ориентир населённого пункта."
+  }
+];
